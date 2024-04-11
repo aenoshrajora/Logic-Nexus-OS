@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+## Copyright (C) 2024-2025 Aenosh Rajora <aenoshrajora@gmail.com>
+
+
+## Script to Lock the session by xfce-power-manager
+
+betterlockscreen --lock &
